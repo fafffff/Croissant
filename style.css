@@ -19,3 +19,6 @@ p.card-text {
 .btn {
   background: blueviolet;
 }
+a.email-link {
+  text-align: center;
+}
