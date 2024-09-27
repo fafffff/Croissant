@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(248, 238, 224);
+}
+
+h1 {
+  color: blueviolet;
+  font-size: 50px;
+  font-family: fantasy;
+}
+p.text {
+  text-align: justify;
+}
