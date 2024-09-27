@@ -9,4 +9,13 @@ h1 {
 }
 p.text {
   text-align: justify;
+  height: 1.5;
+}
+p.card-text {
+  text-align: justify;
+  color: blueviolet;
+  text-decoration: none !important;
+}
+.btn {
+  background: blueviolet;
 }
